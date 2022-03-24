@@ -1,0 +1,110 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img.images{
+    height: 35px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 0px;
+    margin: 0px;
+
+}
+
+img{
+    height: 89%;
+    width: 33%;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin: 0px;
+    float: left;
+    position: fixed;
+}
+
+p{
+    font-family:'Walbaum Display';
+    font-size: 2em;
+}
+
+
+
+h4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 2.6em ;
+    margin-left:150px;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px white;
+
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-size: 4.8em ;
+    margin-right: 140px;
+    color: white;
+    text-shadow: 9px 7px 10px black;
+
+}
+h3{
+    font-family:YouYuan,sans-serif;
+    text-align: right;
+    font-size: 1.5em;
+
+}
+
+
+.me{
+    font-size: 1em;
+    padding-right: 20px;
+}
+
+.resume{
+    font-size: 1em;
+    padding-right: 20px;
+}
+
+.interest{
+    font-size: 1em;
+    padding-right: 20px;
+}
+
+.photo{
+    font-size: 1em;
+    padding-right: 20px;
+}
+
+a:link.me{
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; font-size:22px ;}
+     a:visited.me{color:azure}
+     a:hover.me{color:#005190;font-weight:bold; background-color:rgb(70, 182, 226); padding: 15px;}
+     a:active.me{color:chartreuse;}
+    
+a:link.resume{
+    color:bisque; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 15px; font-size:22px ;}
+     a:visited.resume{color:azure}
+     a:hover.resume{color:#005190;font-weight:bold; background-color:rgb(70, 182, 226); padding: 15px;}
+     a:active.resume{color:chartreuse;}
+    
+     a:link.interest{ color:bisque; 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-right: 15px; font-size:22px ;}
+     a:visited.interest{color:azure;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+     a:hover.interest{color:#005190;font-weight:bold; background-color:rgb(70, 182, 226); padding: 15px;}
+     a:active.interest{color:chartreuse;}
+    
+     a:link.photo{ color:bisque; 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-right: 15px; font-size:22px ;}
+     a:visited.photo{color:azure}
+     a:hover.photo{color:#005190;font-weight:bold; background-color:rgb(70, 182, 226); padding: 15px;}
+     a:active.photo{color:chartreuse;}
